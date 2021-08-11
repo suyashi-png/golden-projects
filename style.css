@@ -1,0 +1,23 @@
+h1 {
+    color: white;
+}
+
+.header{
+    background-color: blue;
+    
+}
+
+.info{
+    font-size: 20;
+   
+}
+
+.game{
+    border: 4px;
+    align-items: center;
+}
+
+p,h2,h1,img{
+    text-align: center;
+    align-items: center;
+}
